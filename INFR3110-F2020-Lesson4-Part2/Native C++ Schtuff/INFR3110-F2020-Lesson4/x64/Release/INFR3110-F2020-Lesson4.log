@@ -1,0 +1,10 @@
+﻿  GameObject.cpp
+  Main.cpp
+  Wrapper.cpp
+     Creating library C:\Users\skate\source\repos\INFR3110-F2020-Lesson4\x64\Release\INFR3110-F2020-Lesson4.lib and object C:\Users\skate\source\repos\INFR3110-F2020-Lesson4\x64\Release\INFR3110-F2020-Lesson4.exp
+  Generating code
+  10 of 12 functions (83.3%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  INFR3110-F2020-Lesson4.vcxproj -> C:\Users\skate\source\repos\INFR3110-F2020-Lesson4\x64\Release\INFR3110-F2020-Lesson4.dll
